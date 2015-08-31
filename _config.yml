@@ -9,7 +9,7 @@ name: Kevin Esswein
 description: UTCS Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/kesswein/kesswein.github.io/blob/master/images/8799281.jpeg
+avatar: https://raw.githubusercontent.com/kesswein/kesswein.github.io/master/images/8799281.JPG
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: https://github.com/kesswein
+  github: kesswein
   instagram:
   linkedin:
   pinterest:
