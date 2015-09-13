@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bring it on, Collatz
+title: One project down
 ---
 
 
