@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fifth Week
+title: Sixth Week
 ---
 
 Since the last week was so quiet I completely forgot to update my Jekyll pages, so here I am starting way too late. It's a nice break focus on learning material that can be expanded upon and examined in depth for programming strategy from the more frantic moments of hastily assembling a program to function with the desired output, efficiency and elegance be damned. 
