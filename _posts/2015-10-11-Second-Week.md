@@ -1,0 +1,7 @@
+---
+layout: post
+title: Fun test
+---
+
+Interesting test to say the least. The first two questions, hard as they were, pretty much encapsulated everything we’ve learned in the class. I honestly freaked out the instant I saw the two of them, feeling there would be no way I would figure everything out in such a short period of time, but all the collective knowledge culminating throughout the lectures really added up to make up an intriguing pair of questions. I only wish that the other four questions figured out some other concept to test. Constants, in particular, were or huge interest, and I felt that the test could have expanded on their interactions in classes, or with the relationships between built in C++ structures, references, lvalues, and arrays and their corresponding address sizes and access methods. Instead the test came down to, if you know how iterators work, you’ll do well; if you decided that iterators weren’t important and some of the other concepts were more worth studying, you are doomed to fail. I really hope that in future years the test will come to go over all of the class concepts over a longer test instead of such a narrow focus, not that I want to talk down to the professor, this is still the most hugely impressive and interesting class that I’ve taken. I look forward to getting past some of the semantics of C++ and learning about how object-oriented programming looks at its highest sophistication.
+Tip of the day: if you must get sick the week of the test, get sick the day after, it’s a real life saver
