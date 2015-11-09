@@ -1,0 +1,7 @@
+---
+layout: post
+title: Thoughts on Darwin
+---
+
+Working with the Darwin machine had some interesting decisions in how to make objects act upon themselves. The creature object does not know its location and cannot therefore move itself unless sent a pointer by the Darwin object or by indicating a hop taking place by some matter through the use of the return type. That gets even more confounding when you have to take into consideration that the creature has to be aware of what’s in front of it in order to decide on what to do even though not even Darwin knows what is in front of the creature given that it doesn’t know which way the creature is facing. My partner and I decided to send the creature a vector of creature pointers indicating each of the creatures surrounding the four squares around the creature, but this feels like it was the wrong decision thinking back. It worked well enough when you’re working with a maximum of four squares, but what would you do when you need to make decisions based on what’s going on in the entirety of the map. The time and space complexity would spiral out of control. Thinking back, I feel like we should have sent the creature a pair of coordinates and let the creature change them at will, but even this represents a security concern if somebody would change the capabilities of the creature to jump around anywhere in the grid.
+Tip of the day: even if you are making a small scale decision, make the decision as though the situation will change to a larger scale
